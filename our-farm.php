@@ -3,7 +3,7 @@
 <div id="our-farm-wrap" class="container-fluid anchor-page">
 	<div class="row">
 		<div class="col col-lg-12 ml-auto mr-auto">
-			<h2 class="text-center">Наша ферма</h2>
+			<h2 class="text-center headers-h">Наша ферма</h2>
 			<img class="olga-on-img" src="imgs/our-farm.jpg" alt="">		
 			<p>Крестьянско-фермерское хозяйство Ольги Петровны Ивлевой расположено в селе Ершово Одинцовского района Московской области.</p>
 			<p>На сегодняшний день, является фактически единственным фермерским хозяйством по разведению крупного рогатого скота в Одинцовском районе. </p>	
@@ -75,47 +75,7 @@
     </div>
 </div>
 
-<div id="gallery-design-wrap" class="container-fluid gallery-mob visible-xs-block visible-sm-block"> 
-    <div class="col-md-12 text-center">
-        <button id="btn-want-the-same" class="btn-callback">Хочу так же!</button>  
-    </div>      
-    <div id="carousel-gallery-mob" data-ride="carousel" class="carousel slide">
-        <!-- Wrapper for slides -->
-          <div class="carousel-inner" role="listbox">
-              <div id="design-kozl-mob-01" class="item active"></div>
-              <div id="design-kozl-mob-02" class="item"></div>
-<!--               <div id="design-kozl-mob-03" class="item"></div>
-              <div id="design-kozl-mob-04" class="item"></div>
-              <div id="design-kozl-mob-05" class="item"></div>
-              <div id="design-kozl-mob-06" class="item"></div>
-              <div id="design-kozl-mob-07" class="item"></div>
-              <div id="design-kozl-mob-08" class="item"></div>
-              <div id="design-tavr-mob-01" class="item"></div>
-              <div id="design-tavr-mob-02" class="item"></div>
-              <div id="design-tavr-mob-03" class="item"></div>
-              <div id="design-tavr-mob-04" class="item"></div>
-              <div id="design-tavr-mob-05" class="item"></div>
-              <div id="design-tavr-mob-06" class="item"></div>
-              <div id="design-tavr-mob-07" class="item"></div>
-              <div id="design-tavr-mob-08" class="item"></div>
-              <div id="design-tavr-mob-09" class="item"></div>
-              <div id="design-tavr-mob-10" class="item"></div>
-              <div id="design-tavr-mob-11" class="item"></div>
-              <div id="design-tavr-mob-12" class="item"></div>
-              <div id="design-tavr-mob-13" class="item"></div>
-              <div id="design-tavr-mob-14" class="item"></div>    -->              
-          </div>
-        <!-- Controls -->
-          <a class="left carousel-control" href="#carousel-gallery-mob" role="button" data-slide="prev">
-              <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-              <span class="sr-only">Previous</span>
-          </a>
-          <a class="right carousel-control" href="#carousel-gallery-mob" role="button" data-slide="next">
-              <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-              <span class="sr-only">Next</span>
-          </a>
-    </div>
-</div>
+
 
    
 

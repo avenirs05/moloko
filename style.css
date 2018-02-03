@@ -2,8 +2,16 @@ body {
 		padding-top: 54px;
 }
 
+.headers-h {
+	color: green;
+}
+
 #lightgallery img {
     margin-bottom: 4px;
+}
+
+#lightgallery {
+    margin-bottom: 30px;
 }
 
 #our-farm-wrap .olga-on-img {
@@ -456,6 +464,9 @@ button[type="submit"]:hover {
 
 	#pills-tab .nav-item {
 		width: 100%;
+	}
+	.product-item-wrap figure {
+		margin-bottom: 50px;
 	}
 }
 

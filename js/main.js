@@ -1,6 +1,11 @@
 $(function () {    
 
-    $("#lightgallery").lightGallery( { showThumbByDefault: true } );
+    // $("#lightgallery").lightGallery( { showThumbByDefault: true } );
+
+
+    $("#lightgallery").lightGallery( 
+       { showThumbByDefault: true
+    });
 
     function changeColorMenuItem () {
         var location = window.location.href;  
