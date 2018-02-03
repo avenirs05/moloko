@@ -1,5 +1,7 @@
 $(function () {    
 
+    $("#lightgallery").lightGallery( { showThumbByDefault: true } );
+
     function changeColorMenuItem () {
         var location = window.location.href;  
         var color = '#fff';

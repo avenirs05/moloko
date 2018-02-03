@@ -2,6 +2,23 @@ body {
 		padding-top: 54px;
 }
 
+#lightgallery img {
+    margin-bottom: 4px;
+}
+
+#our-farm-wrap .olga-on-img {
+	float: left;
+	margin-right: 20px;
+}
+
+#our-farm-wrap p {
+	font-size: 20px;	
+}
+
+#our-farm-wrap h2 {
+	margin-bottom: 30px;
+}
+
 .figure-caption {
 	color: #000;
 }
@@ -328,6 +345,12 @@ button[type="submit"]:hover {
 }*/
 
 @media screen and (max-device-width: 991px) {
+	#our-farm-wrap .olga-on-img {
+		margin-right: 0px;
+		margin-bottom: 15px;
+		width: 100%;
+	}
+
 	.navbar {
 		padding-left: 0;
 	}
