@@ -5,46 +5,47 @@
 				<h2 class="text-center headers-h">Выпечка</h2>
 			</div>
 		</div>
+		
 		<div class="row first-row-discount">
 			<div class="col-12 col-lg-2 ml-auto mr-auto text-center">
 				<figure class="figure">
-				  <img height="150" src="imgs/products/milk/kefir.jpg" class="figure-img rounded" alt="">
-				  <figcaption class="figure-caption text-left"><b>Кефир 0,5 л</b><br>Цена: 75 руб.
+				  <img height="150" src="imgs/products/bakery/no-img.jpg" class="figure-img rounded" alt="">
+				  <figcaption class="figure-caption text-left"><b>Хычаны 1 шт</b><br>Цена: 50 руб.
 				  </figcaption>
 				</figure>
 			</div>
 			<div class="col-12 col-lg-2 ml-auto mr-auto text-center">
 				<figure class="figure">
-				  <img height="150" src="imgs/products/milk/kefir.jpg" class="figure-img rounded" alt="">
-				  <figcaption class="figure-caption text-left"><b>Кефир 0,5 л</b><br>Цена: 75 руб.
+				  <img height="150" src="imgs/products/bakery/hachap.jpg" class="figure-img rounded" alt="">
+				  <figcaption class="figure-caption text-left"><b>Хачапури с сыром 1 шт</b><br>Цена: 80 руб.
 				  </figcaption>
 				</figure>
 			</div>
 			<div class="col-12 col-lg-2 ml-auto mr-auto text-center">
 				<figure class="figure">
-				  <img height="150" src="imgs/products/milk/kefir.jpg" class="figure-img rounded" alt="">
-				  <figcaption class="figure-caption text-left"><b>Кефир 0,5 л</b><br>Цена: 75 руб.
+				  <img height="150" src="imgs/products/bakery/no-img.jpg" class="figure-img rounded" alt="">
+				  <figcaption class="figure-caption text-left"><b>Батон с маком</b><br>Цена: 80 руб.
 				  </figcaption>
 				</figure>
 			</div>
 			<div class="col-12 col-lg-2 ml-auto mr-auto text-center">
 				<figure class="figure">
-				  <img height="150" src="imgs/products/milk/kefir.jpg" class="figure-img rounded" alt="">
-				  <figcaption class="figure-caption text-left"><b>Кефир 0,5 л</b><br>Цена: 75 руб.
+				  <img height="150" src="imgs/products/bakery/pletenka-s-mak.jpg" class="figure-img rounded" alt="">
+				  <figcaption class="figure-caption text-left"><b>Плетёнка с маком</b><br>Цена: 80 руб.
 				  </figcaption>
 				</figure>
 			</div>
 			<div class="col-12 col-lg-2 ml-auto mr-auto text-center">
 				<figure class="figure">
-				  <img height="150" src="imgs/products/milk/kefir.jpg" class="figure-img rounded" alt="">
-				  <figcaption class="figure-caption text-left"><b>Кефир 0,5 л</b><br>Цена: 75 руб.
+				  <img height="150" src="imgs/products/bakery/no-img.jpg" class="figure-img rounded" alt="">
+				  <figcaption class="figure-caption text-left"><b>Хлеб пшеничный 0,7 кг</b><br>Цена: 80 руб.
 				  </figcaption>
 				</figure>
 			</div>
 			<div class="col-12 col-lg-2 ml-auto mr-auto text-center">
 				<figure class="figure">
-				  <img height="150" src="imgs/products/milk/kefir.jpg" class="figure-img rounded" alt="">
-				  <figcaption class="figure-caption text-left"><b>Кефир 0,5 л</b><br>Цена: 75 руб.
+				  <img height="150" src="imgs/products/bakery/no-img.jpg" class="figure-img rounded" alt="">
+				  <figcaption class="figure-caption text-left"><b>Хлеб ржаной 0,7 кг</b><br>Цена: 80 руб.
 				  </figcaption>
 				</figure>
 			</div>
@@ -53,43 +54,43 @@
 		<div class="row first-row-discount">
 			<div class="col-12 col-lg-2 ml-auto mr-auto text-center">
 				<figure class="figure">
-				  <img height="150" src="imgs/products/milk/kefir.jpg" class="figure-img rounded" alt="">
-				  <figcaption class="figure-caption text-left"><b>Кефир 0,5 л</b><br>Цена: 75 руб.
+				  <img height="150" src="imgs/products/bakery/no-img.jpg" class="figure-img rounded" alt="">
+				  <figcaption class="figure-caption text-left"><b>Торт "Медовик" 1 кг</b><br>Цена: 800 руб.
 				  </figcaption>
 				</figure>
 			</div>
 			<div class="col-12 col-lg-2 ml-auto mr-auto text-center">
 				<figure class="figure">
-				  <img height="150" src="imgs/products/milk/kefir.jpg" class="figure-img rounded" alt="">
-				  <figcaption class="figure-caption text-left"><b>Кефир 0,5 л</b><br>Цена: 75 руб.
+				  <img height="150" src="imgs/products/bakery/no-img.jpg" class="figure-img rounded" alt="">
+				  <figcaption class="figure-caption text-left"><b>Торт "Наполеон" 1 кг</b><br>Цена: 800 руб.
 				  </figcaption>
 				</figure>
 			</div>
 			<div class="col-12 col-lg-2 ml-auto mr-auto text-center">
 				<figure class="figure">
-				  <img height="150" src="imgs/products/milk/kefir.jpg" class="figure-img rounded" alt="">
-				  <figcaption class="figure-caption text-left"><b>Кефир 0,5 л</b><br>Цена: 75 руб.
+				  <img height="150" src="imgs/products/bakery/no-img.jpg" class="figure-img rounded" alt="">
+				  <figcaption class="figure-caption text-left"><b>Торт "Фермерский" 1 кг</b><br>Цена: 800 руб.
 				  </figcaption>
 				</figure>
 			</div>
 			<div class="col-12 col-lg-2 ml-auto mr-auto text-center">
 				<figure class="figure">
-				  <img height="150" src="imgs/products/milk/kefir.jpg" class="figure-img rounded" alt="">
-				  <figcaption class="figure-caption text-left"><b>Кефир 0,5 л</b><br>Цена: 75 руб.
+				  <img height="150" src="imgs/products/bakery/no-img.jpg" class="figure-img rounded" alt="">
+				  <figcaption class="figure-caption text-left"><b>Пирожное "Безе" 1 шт</b><br>Цена: 50 руб.
 				  </figcaption>
 				</figure>
 			</div>
 			<div class="col-12 col-lg-2 ml-auto mr-auto text-center">
 				<figure class="figure">
-				  <img height="150" src="imgs/products/milk/kefir.jpg" class="figure-img rounded" alt="">
-				  <figcaption class="figure-caption text-left"><b>Кефир 0,5 л</b><br>Цена: 75 руб.
+				  <img height="150" src="imgs/products/bakery/no-img.jpg" class="figure-img rounded" alt="">
+				  <figcaption class="figure-caption text-left"><b>Булка с маком/халва и мак 1 шт</b><br>Цена: 50 руб.
 				  </figcaption>
 				</figure>
 			</div>
 			<div class="col-12 col-lg-2 ml-auto mr-auto text-center">
 				<figure class="figure">
-				  <img height="150" src="imgs/products/milk/kefir.jpg" class="figure-img rounded" alt="">
-				  <figcaption class="figure-caption text-left"><b>Кефир 0,5 л</b><br>Цена: 75 руб.
+				  <img height="150" src="imgs/products/bakery/vatrushka.jpg" class="figure-img rounded" alt="">
+				  <figcaption class="figure-caption text-left"><b>Ватрушка с творогом 1 шт</b><br>Цена: 50 руб.
 				  </figcaption>
 				</figure>
 			</div>
@@ -98,47 +99,130 @@
 		<div class="row first-row-discount">
 			<div class="col-12 col-lg-2 ml-auto mr-auto text-center">
 				<figure class="figure">
-				  <img height="150" src="imgs/products/milk/kefir.jpg" class="figure-img rounded" alt="">
-				  <figcaption class="figure-caption text-left"><b>Кефир 0,5 л</b><br>Цена: 75 руб.
+				  <img height="150" src="imgs/products/bakery/no-img.jpg" class="figure-img rounded" alt="">
+				  <figcaption class="figure-caption text-left"><b>Кекс творожный 1 шт</b><br>Цена: 50 руб.
 				  </figcaption>
 				</figure>
 			</div>
 			<div class="col-12 col-lg-2 ml-auto mr-auto text-center">
 				<figure class="figure">
-				  <img height="150" src="imgs/products/milk/kefir.jpg" class="figure-img rounded" alt="">
-				  <figcaption class="figure-caption text-left"><b>Кефир 0,5 л</b><br>Цена: 75 руб.
+				  <img height="150" src="imgs/products/bakery/no-img.jpg" class="figure-img rounded" alt="">
+				  <figcaption class="figure-caption text-left"><b>Печенье в ассортименте 1 кг</b><br>Цена: 400 руб.
 				  </figcaption>
 				</figure>
 			</div>
 			<div class="col-12 col-lg-2 ml-auto mr-auto text-center">
 				<figure class="figure">
-				  <img height="150" src="imgs/products/milk/kefir.jpg" class="figure-img rounded" alt="">
-				  <figcaption class="figure-caption text-left"><b>Кефир 0,5 л</b><br>Цена: 75 руб.
+				  <img height="150" src="imgs/products/bakery/pirozki.jpg" class="figure-img rounded" alt="">
+				  <figcaption class="figure-caption text-left"><b>Пирожки с вишней 1 шт</b><br>Цена: 50 руб.
 				  </figcaption>
 				</figure>
 			</div>
 			<div class="col-12 col-lg-2 ml-auto mr-auto text-center">
 				<figure class="figure">
-				  <img height="150" src="imgs/products/milk/kefir.jpg" class="figure-img rounded" alt="">
-				  <figcaption class="figure-caption text-left"><b>Кефир 0,5 л</b><br>Цена: 75 руб.
+				  <img height="150" src="imgs/products/bakery/pirozki.jpg" class="figure-img rounded" alt="">
+				  <figcaption class="figure-caption text-left"><b>Пирожки с капустой 1 шт</b><br>Цена: 50 руб.
 				  </figcaption>
 				</figure>
 			</div>
 			<div class="col-12 col-lg-2 ml-auto mr-auto text-center">
 				<figure class="figure">
-				  <img height="150" src="imgs/products/milk/kefir.jpg" class="figure-img rounded" alt="">
-				  <figcaption class="figure-caption text-left"><b>Кефир 0,5 л</b><br>Цена: 75 руб.
+				  <img height="150" src="imgs/products/bakery/pirozki.jpg" class="figure-img rounded" alt="">
+				  <figcaption class="figure-caption text-left"><b>Пирожки с картошкой 1 шт</b><br>Цена: 50 руб.
 				  </figcaption>
 				</figure>
 			</div>
 			<div class="col-12 col-lg-2 ml-auto mr-auto text-center">
 				<figure class="figure">
-				  <img height="150" src="imgs/products/milk/kefir.jpg" class="figure-img rounded" alt="">
-				  <figcaption class="figure-caption text-left"><b>Кефир 0,5 л</b><br>Цена: 75 руб.
+				  <img height="150" src="imgs/products/bakery/pirozki.jpg" class="figure-img rounded" alt="">
+				  <figcaption class="figure-caption text-left"><b>Пирожки с курочкой 1 шт</b><br>Цена: 50 руб.
 				  </figcaption>
 				</figure>
 			</div>
 		</div>
 
-		</div>  
+		<div class="row first-row-discount">
+			<div class="col-12 col-lg-2 ml-auto mr-auto text-center">
+				<figure class="figure">
+				  <img height="150" src="imgs/products/bakery/pirozki.jpg" class="figure-img rounded" alt="">
+				  <figcaption class="figure-caption text-left"><b>Пирожки с ливером 1 шт</b><br>Цена: 50 руб.
+				  </figcaption>
+				</figure>
+			</div>
+			<div class="col-12 col-lg-2 ml-auto mr-auto text-center">
+				<figure class="figure">
+				  <img height="150" src="imgs/products/bakery/pirozki.jpg" class="figure-img rounded" alt="">
+				  <figcaption class="figure-caption text-left"><b>Пирожки с мясом 1 шт</b><br>Цена: 50 руб.
+				  </figcaption>
+				</figure>
+			</div>
+			<div class="col-12 col-lg-2 ml-auto mr-auto text-center">
+				<figure class="figure">
+				  <img height="150" src="imgs/products/bakery/pirozki.jpg" class="figure-img rounded" alt="">
+				  <figcaption class="figure-caption text-left"><b>Пирожки рис/лук/яйцо 1 шт</b><br>Цена: 50 руб.
+				  </figcaption>
+				</figure>
+			</div>
+			<div class="col-12 col-lg-2 ml-auto mr-auto text-center">
+				<figure class="figure">
+				  <img height="150" src="imgs/products/bakery/pirozki.jpg" class="figure-img rounded" alt="">
+				  <figcaption class="figure-caption text-left"><b>Пирожки с яблоками 1 шт</b><br>Цена: 50 руб.
+				  </figcaption>
+				</figure>
+			</div>
+			<div class="col-12 col-lg-2 ml-auto mr-auto text-center">
+				<figure class="figure">
+				  <img height="150" src="imgs/products/bakery/piroznoe-kart.jpg" class="figure-img rounded" alt="">
+				  <figcaption class="figure-caption text-left"><b>Пирожное "Картошка" 1 кг</b><br>Цена: 800 руб.
+				  </figcaption>
+				</figure>
+			</div>
+			<div class="col-12 col-lg-2 ml-auto mr-auto text-center">
+				<figure class="figure">
+				  <img height="150" src="imgs/products/bakery/no-img.jpg" class="figure-img rounded" alt="">
+				  <figcaption class="figure-caption text-left"><b>Пряники имбирные 1 шт</b><br>Цена: 40 руб.
+				  </figcaption>
+				</figure>
+			</div>
+		</div>
+
+		<div class="row first-row-discount">
+			<div class="col-12 col-lg-2 ml-auto mr-auto text-center">
+				<figure class="figure">
+				  <img height="150" src="imgs/products/bakery/no-img.jpg" class="figure-img rounded" alt="">
+				  <figcaption class="figure-caption text-left"><b>Пряники весовые 1 кг</b><br>Цена: 400 руб.
+				  </figcaption>
+				</figure>
+			</div>
+			<div class="col-12 col-lg-2 ml-auto mr-auto text-center">
+				<figure class="figure">
+				  <img height="150" src="imgs/products/bakery/no-img.jpg" class="figure-img rounded" alt="">
+				  <figcaption class="figure-caption text-left"><b>Сочник с творогом 1 шт</b><br>Цена: 50 руб.
+				  </figcaption>
+				</figure>
+			</div>
+			<div class="col-12 col-lg-2 ml-auto mr-auto text-center">
+				<figure class="figure">
+				  <img height="150" src="imgs/products/bakery/no-img.jpg" class="figure-img rounded" alt="">
+				  <figcaption class="figure-caption text-left"><b>Трубочки с кремом 1 кг</b><br>Цена: 800 руб.
+				  </figcaption>
+				</figure>
+			</div>
+			<div class="col-12 col-lg-2 ml-auto mr-auto text-center">
+				<figure class="figure">
+				  <img height="150" src="imgs/products/bakery/no-img.jpg" class="figure-img rounded" alt="">
+				  <figcaption class="figure-caption text-left"><b>Трубочки с творогом 1 кг</b><br>Цена: 800 руб.
+				  </figcaption>
+				</figure>
+			</div>
+			<div class="col-12 col-lg-2 ml-auto mr-auto text-center">
+				<figure class="figure">
+				  <img height="150" src="imgs/products/bakery/fokacha.jpg" class="figure-img rounded" alt="">
+				  <figcaption class="figure-caption text-left"><b>Фокачча с сыром 1 шт</b><br>Цена: 100 руб.
+				  </figcaption>
+				</figure>
+			</div>
+		</div>
+
+	</div>  
 </div>
