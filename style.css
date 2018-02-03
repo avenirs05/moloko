@@ -372,10 +372,10 @@ button[type="submit"]:hover {
 		padding-left: 0 !important;
 	}
 	.main-screen-mob {
-		background-image: url("imgs/cow-bg.jpg");
+		background-image: url("imgs/cow-bg-mob.jpg");
 		background-repeat: no-repeat;
 		background-size: cover;
-		height: 50vh;
+		height: 100vh;
 	}
 	.main-screen-mob h1 {
 		font-family: 'PT Sans', sans-serif;
