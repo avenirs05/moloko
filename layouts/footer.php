@@ -1,12 +1,5 @@
 <div class="container-fluid header">
 	<nav class="row navbar navbar-dark bg-dark footer">
-		<div class="col">
-			<span><b>Тел.:</b> +7 (916) 947-81-60</span> 
-		</div>
-		<div class="w-100"></div>
-		<div class="col logo d-flex align-items-center">Крестьянско-фермерское хозяйство "Ивлевой О.П."
-		</div>
-		<div class="w-100"></div>
 		<div class="col text-center d-none d-lg-block">
 			<span class="copyright">&copy; молокопарное.рф, 2017</span>
 		</div>
