@@ -8,7 +8,7 @@ $(function () {
     var linkMob = '#header-mob li a';
 
     var changeColor = function (event) {
-        event.preventDefault();
+        // event.preventDefault();
         for (var i = 0; i < $('.header ul li a').length; i++) {
             if ( $(linkDesk).eq(i).text() !== $(event.target).text() ) {
                 $(linkDesk).css('color', colorDefault);                
@@ -20,15 +20,15 @@ $(function () {
 
 
     // Прокручивание до нужного раздела 
-    $(linkDesk + ',' + linkMob).click(function(event) {           
-        $(this).css('color', colorClicked);
-        var fixed_offset = 55;
-        $('html,body').stop().animate({ scrollTop: $(this.hash).offset().top - fixed_offset}, 1,
-            function(){
-                $('.collapse').collapse('hide');
-        });
-        event.preventDefault();
-    });
+    // $(linkDesk + ',' + linkMob).click(function(event) {           
+    //     $(this).css('color', colorClicked);
+    //     var fixed_offset = 55;
+    //     $('html,body').stop().animate({ scrollTop: $(this.hash).offset().top - fixed_offset}, 1,
+    //         function(){
+    //             $('.collapse').collapse('hide');
+    //     });
+    //     event.preventDefault();
+    // });
 
     // Подсветка цветом пункта меню при наведении мыши
     $(linkDesk + ',' + linkMob).mouseover(function(event) {
