@@ -1,6 +1,26 @@
 $(function () {    
 
-    // Выделение цветом нужного пункта меню
+    function changeColorMenuItem () {
+        var location = window.location.href;  
+        var color = '#fff';
+
+        if ( location.match(/our-farm/) ) {
+            $('#our-farm-link').css('color', color);
+        }
+        if ( location.match(/our-products/) ) {
+            $('#our-products-link').css('color', color);        
+        }
+        if ( location.match(/agrochemicals/) ) {
+            $('#agrochemicals-link').css('color', color);       
+        }
+        if ( location.match(/contacts/) ) {
+            $('#contacts-link').css('color', color);        
+        }
+    }
+
+    changeColorMenuItem();
+
+    //Выделение цветом нужного пункта меню
     var colorClicked = 'rgb(255, 193, 7)'; //оранжевый #FFC107
     var colorDefault = 'rgb(255, 255, 153)'  // бледно-желтый #FFFF99
     var colorHover = 'yellow'; 
@@ -31,20 +51,20 @@ $(function () {
     // });
 
     // Подсветка цветом пункта меню при наведении мыши
-    $(linkDesk + ',' + linkMob).mouseover(function(event) {
-        for (var i = 0; i < $(linkDesk).length; i++) {
-            if ( $(linkDesk).eq(i).css('color') !== colorClicked ) { 
-                $(event.target).css('color', colorHover);
-            } 
-        }
-    });
+    // $(linkDesk + ',' + linkMob).mouseover(function(event) {
+    //     for (var i = 0; i < $(linkDesk).length; i++) {
+    //         if ( $(linkDesk).eq(i).css('color') !== colorClicked ) { 
+    //             $(event.target).css('color', colorHover);
+    //         } 
+    //     }
+    // });
 
     // Изменение цвета пункта меню при убирании мыши 
-    $(linkDesk + ',' + linkMob).mouseleave(function(event) {
-        if ($(this).css('color') !== colorClicked ) {
-            $(this).css('color', colorDefault);
-        }      
-    });
+    // $(linkDesk + ',' + linkMob).mouseleave(function(event) {
+    //     if ($(this).css('color') !== colorClicked ) {
+    //         $(this).css('color', colorDefault);
+    //     }      
+    // });
     
 
     // Маска ввода номера телефона

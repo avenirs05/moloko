@@ -2,6 +2,24 @@ body {
 		padding-top: 54px;
 }
 
+.figure-caption {
+	color: #000;
+}
+
+.product-item-wrap h2 {
+	margin-bottom: 30px;
+}
+
+
+#pills-tab {
+	margin-left: 8px;
+	margin-top: 20px;
+}
+
+#pills-tab .nav-link.active {
+	background-color: green;
+}
+
 .sticky-top {
 	    position: fixed !important;
 	    width: 100%;
@@ -77,6 +95,10 @@ a {
 }
 
 #nav-main {
+	background-color: #80520C;
+}
+
+#nav-main-mob, #just-for-bg-mob {
 	background-color: #80520C;
 }
 
@@ -299,6 +321,12 @@ button[type="submit"]:hover {
 	width: 800px;
 }
 
+/*.main-screen-mob h1 {
+  position: absolute;
+  right: 15px;
+  top: -38px;
+}*/
+
 @media screen and (max-device-width: 991px) {
 	.navbar {
 		padding-left: 0;
@@ -398,6 +426,18 @@ button[type="submit"]:hover {
 
 }
 
+@media screen and (max-device-width: 992px) { 
+	#pills-tab {
+		margin-left: 0px;
+	}
+
+	#pills-tab .nav-item {
+		width: 100%;
+	}
+}
+
+
+
 @media screen and (min-device-width: 320px) {
 	.main-screen-mob #for-30-min-mob {
 		font-size: 24px;
@@ -419,7 +459,7 @@ button[type="submit"]:hover {
 @media screen and (min-device-width: 480px) {
 	.main-screen-mob h1 {
 		font-size: 28px;
-		margin-top: 50px;
+		/*margin-top: 50px;*/
 	}
 	.main-screen-mob #for-30-min-mob {
 		font-size: 28px;
@@ -430,7 +470,7 @@ button[type="submit"]:hover {
 @media screen and (min-device-width: 768px) {
 	.main-screen-mob h1 {
 		font-size: 32px;
-		margin-top: 50px;
+		margin-top: -42px;
 	}
 	.main-screen-mob #for-30-min-mob {
 		font-size: 32px;

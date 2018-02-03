@@ -35,11 +35,11 @@
             <a href="/"><img src="/imgs/logo.png" height="40" alt=""></a>
           </div>
           <ul class="col d-flex align-items-center list-unstyled list-inline">
-            <li class="list-inline-item"><a href="/" id="why-uber-link">Главная</a></li>
-            <li class="list-inline-item"><a href="/our-farm.php" id="req-drivers-link" target="_blank">Наша ферма</a></li>
-            <li class="list-inline-item"><a href="/our-products.php" id="req-auto-link" target="_blank">Наша продукция</a></li>
-            <li class="list-inline-item"><a href="/agrochemicals.php" id="our-commission-link" target="_blank">Агрохимикаты</a></li>
-            <li class="list-inline-item"><a href="/contacts.php" id="change-partner-link" target="_blank">Контакты</a></li> 
+            <li class="list-inline-item"><a href="/">Главная</a></li>
+            <li class="list-inline-item"><a id="our-farm-link" href="/our-farm.php" target="_blank">Наша ферма</a></li>
+            <li class="list-inline-item"><a id="our-products-link" href="/our-products.php" target="_blank">Наша продукция</a></li>
+            <li class="list-inline-item"><a id="agrochemicals-link" href="/agrochemicals.php" target="_blank">Агрохимикаты</a></li>
+            <li class="list-inline-item"><a id="contacts-link" href="/contacts.php" target="_blank">Контакты</a></li> 
           </ul>
           <div class="col-auto d-flex align-items-center justify-content-end contacts">           
             <img class="phone-icon" src="imgs/phone.svg" width="17" height="17" alt="">
@@ -54,7 +54,7 @@
   	<!-- Navbar for mobile -->
     <div id="header-mob" class="pos-f-t sticky-top header d-lg-none">
       <div class="collapse" id="navbarToggleExternalContent">
-        <div class="bg-dark p-4">
+        <div id="just-for-bg-mob" class="p-4">
         	<ul class="col list-unstyled">
         		<li><a href="/" id="why-uber-link-mob">Главная</a></li><br>
         		<li><a href="/our-farm.php" id="req-drivers-link-mob">Наша ферма</a></li><br>
@@ -64,7 +64,7 @@
         	</ul>
         </div>
       </div>
-      <nav class="navbar navbar-dark bg-dark no-gutters">
+      <nav id="nav-main-mob" class="navbar navbar-dark no-gutters">
 	      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggleExternalContent" aria-controls="navbarToggleExternalContent" aria-expanded="false" aria-label="Toggle navigation">
 	        <span class="navbar-toggler-icon"></span>
 	      </button>
