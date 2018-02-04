@@ -6,7 +6,7 @@
 			</div>
 		</div>
 		<div class="row first-row-discount">
-			<div class="col-12 col-lg-2 ml-auto mr-auto text-center">
+			<div style="padding-bottom: 300px;" class="col-12 col-lg-2 ml-auto mr-auto text-center">
 				<figure class="figure">
 				  <img height="150" src="imgs/products/eggs/yaico.jpg" class="figure-img rounded" alt="">
 				  <figcaption class="figure-caption text-left"><b>Яйцо 10 шт</b><br>Цена: 150 руб.

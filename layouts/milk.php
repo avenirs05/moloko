@@ -76,7 +76,7 @@
 			<div class="col-12 col-lg-2 ml-auto mr-auto text-center">
 				<figure class="figure">
 				  <img height="150" src="imgs/products/milk/slivki-40-per.jpg" class="figure-img rounded" alt="">
-				  <figcaption class="figure-caption text-left"><b>Сливки питьевые 40% 0,5л</b><br>Цена: 200 руб.
+				  <figcaption class="figure-caption text-left"><b>Сливки</b><br><b>питьевые 40% 0,5л</b><br>Цена: 200 руб.
 				  </figcaption>
 				</figure>
 			</div>

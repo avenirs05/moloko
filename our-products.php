@@ -47,7 +47,7 @@
 
   
 
-<?php //require_once 'layouts/footer.php'; ?>
+<?php require_once 'layouts/footer.php'; ?>
 
 
 
