@@ -44,6 +44,7 @@
     <!-- Модальное окно все условия -->
     <?php //require 'modal-all-conditions.php'; ?>
 
+
     <div class="container-fluid sticky-top header d-none d-lg-block">
       <nav id="nav-main" class="row navbar navbar-light">
           <div class="col-auto d-flex align-items-center">

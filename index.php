@@ -1,5 +1,10 @@
 ﻿<?php require_once 'layouts/header.php'; ?>
 
+
+<div id="logo-big-wrap" class="d-none d-lg-block">
+  <img src="/imgs/logo.png" alt="" height="150">
+</div>
+
 <!-- Main-screen for desktop -->
 <div class="container-fluid d-none d-lg-block main-screen">
 	<div class="row">
@@ -10,11 +15,15 @@
 	</div>		    
 </div>
 
+<!-- <div id="logo-mob-wrap" class="d-lg-none">
+	<a href="/"><img class="logo-mob" src="imgs/logo.png" height="40" alt=""></a>
+</div> -->
+
 <!-- Main-screen for mobile -->
 <div class="container-fluid d-lg-none main-screen-mob">
 	<div class="row">
-		<div class="col">
-			<a href="/"><img class="logo-mob" src="imgs/logo.png" height="40" alt=""></a>
+		<div class="col text-center">
+			<img class="logo-mob" src="imgs/logo.png" height="70" alt="">
 			<h1>Молоко парное от бабушки Оли</h1>
 		</div>
 	</div>		    
