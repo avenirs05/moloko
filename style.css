@@ -2,6 +2,24 @@ body {
 	padding-top: 54px;
 }
 
+.bioudobr {
+	font-size: 20px;
+}
+
+#cert-wrap {
+	margin-bottom: 20px;
+}
+
+#diff-scans-wrap img {
+	width: 600px;
+}
+
+.bioudobr .bio-main {
+	float: left;
+	margin-right: 20px;
+	margin-top: 7px;
+}
+
 .header .phone-digits {
 	color: #000;
 }
@@ -371,6 +389,10 @@ button[type="submit"]:hover {
 }*/
 
 @media screen and (max-device-width: 991px) {
+	#diff-scans-wrap img {
+		width: 100%;
+	}
+
 	.header a {
 		color: #fff;
 	}
@@ -491,6 +513,9 @@ button[type="submit"]:hover {
 	}
 	.product-item-wrap figure {
 		margin-bottom: 50px;
+	}
+	.bioudobr .bio-main {
+		width: 100%;
 	}
 }
 
