@@ -2,15 +2,15 @@
 
 
 <div id="logo-big-wrap" class="d-none d-lg-block">
-  <img src="/imgs/logo.png" alt="" height="150">
+  <img src="/imgs/logo2.png" alt="" height="150">
 </div>
 
 <!-- Main-screen for desktop -->
 <div class="container-fluid d-none d-lg-block main-screen">
 	<div class="row">
-		<div class="col-12">
-			<h1 class="text-center">Молоко парное</h1>
-			<p id="from-Olga-text" class="text-center">от бабушки Оли</p>
+		<div class="col-9 mr-auto ml-auto">
+			<h1 class="text-center">Крестьянско-фермерское хозяйство</b></h1>
+			<p id="from-Olga-text" class="text-center">Ивлевой Ольги Петровны</p>
 		</div>
 	</div>		    
 </div>
@@ -23,8 +23,8 @@
 <div class="container-fluid d-lg-none main-screen-mob">
 	<div class="row">
 		<div class="col text-center">
-			<img class="logo-mob" src="imgs/logo.png" height="70" alt="">
-			<h1>Молоко парное от бабушки Оли</h1>
+			<img class="logo-mob" src="imgs/logo2.png" height="70" alt="">
+			<h1>Крестьянско-фермерское хозяйство<br>Ивлевой Ольги Петровны</h1>
 		</div>
 	</div>		    
 </div>

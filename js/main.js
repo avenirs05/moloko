@@ -9,7 +9,7 @@ $(function () {
 
     function changeColorMenuItem () {
         var location = window.location.href;  
-        var color = '#fff';
+        var color = 'green';
 
         if ( location.match(/our-farm/) ) {
             $('#our-farm-link').css('color', color);
@@ -28,22 +28,22 @@ $(function () {
     changeColorMenuItem();
 
     //Выделение цветом нужного пункта меню
-    var colorClicked = 'rgb(255, 193, 7)'; //оранжевый #FFC107
-    var colorDefault = 'rgb(255, 255, 153)'  // бледно-желтый #FFFF99
-    var colorHover = 'yellow'; 
-    var linkDesk = ".header ul li a";
-    var linkMob = '#header-mob li a';
+    // var colorClicked = 'rgb(255, 193, 7)'; //оранжевый #FFC107
+    // var colorDefault = 'rgb(255, 255, 153)'  // бледно-желтый #FFFF99
+    // var colorHover = 'yellow'; 
+    // var linkDesk = ".header ul li a";
+    // var linkMob = '#header-mob li a';
 
-    var changeColor = function (event) {
-        // event.preventDefault();
-        for (var i = 0; i < $('.header ul li a').length; i++) {
-            if ( $(linkDesk).eq(i).text() !== $(event.target).text() ) {
-                $(linkDesk).css('color', colorDefault);                
-            } else $(linkDesk).css('color', '#colorClicked'); 
-        }
-    }
+    // var changeColor = function (event) {
+    //     // event.preventDefault();
+    //     for (var i = 0; i < $('.header ul li a').length; i++) {
+    //         if ( $(linkDesk).eq(i).text() !== $(event.target).text() ) {
+    //             $(linkDesk).css('color', colorDefault);                
+    //         } else $(linkDesk).css('color', '#colorClicked'); 
+    //     }
+    // }
 
-    $(linkDesk).click(changeColor);   
+    // $(linkDesk).click(changeColor);   
 
 
     // Прокручивание до нужного раздела 

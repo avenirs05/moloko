@@ -2,6 +2,10 @@ body {
 	padding-top: 54px;
 }
 
+.header .phone-digits {
+	color: #000;
+}
+
 #logo-big-wrap {
 	position: absolute;
 	left: 20px;
@@ -96,7 +100,8 @@ a {
 }
 
 .header a {
-	color: #FFFF99;
+	color: #000066;
+	font-weight: bold;
 }
 
 .main-screen {
@@ -116,26 +121,28 @@ a {
 
 .main-screen h1 {
 	font-family: 'PT Sans', sans-serif;
-	font-size: 72px;
+	font-size: 36px;
 	color: green;
 	font-weight: 600;
-	margin-top: 20px;
-	font-weight: bold;
-	margin-bottom: -10px;
+	margin-top: 40px;
+	/*font-weight: bold;*/
+	margin-bottom: 0px;
+/*	font-weight: bold;*/
 }
 
 .main-screen #from-Olga-text {
-	font-size: 56px;
+	font-size: 36px;
 	color: green;
-	font-weight: bold;
+	/*font-weight: bold;*/
 }
 
 #nav-main {
-	background-color: #80520C;
+	background-color: #99CCFF;
 }
 
 #nav-main-mob, #just-for-bg-mob {
-	background-color: #80520C;
+	background-color: #000000;
+
 }
 
 .main-screen h2 {
@@ -364,6 +371,12 @@ button[type="submit"]:hover {
 }*/
 
 @media screen and (max-device-width: 991px) {
+	.header a {
+		color: #fff;
+	}
+	.header .phone-digits {
+		color: #fff;
+	}
 	#our-farm-wrap .olga-on-img {
 		margin-right: 0px;
 		margin-bottom: 15px;
@@ -485,18 +498,20 @@ button[type="submit"]:hover {
 
 @media screen and (min-device-width: 320px) {
 	.main-screen-mob #for-30-min-mob {
-		font-size: 24px;
+		font-size: 20px;
 		margin-top: -10px;
 	}
 	.main-screen-mob h1 {
 		text-align: center;
 		width: 100%;
+		font-size: 18px;
+		margin-top: 0px;
 	}
 }
 
 @media screen and (min-device-width: 360px) {
 	.main-screen-mob h1 {
-		font-size: 26px;
+		font-size: 22px;
 		/*margin-top: 30px;*/
 		text-align: center;
 		width: 100%;
@@ -513,6 +528,11 @@ button[type="submit"]:hover {
 	.main-screen-mob #for-30-min-mob {
 		font-size: 28px;
 		margin-top: -7px;
+	}
+
+		.main-screen-mob h1 {
+			font-size: 24px;
+		}
 	}
 }
 

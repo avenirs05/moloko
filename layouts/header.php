@@ -39,7 +39,7 @@
     <div class="container-fluid sticky-top header d-none d-lg-block">
       <nav id="nav-main" class="row navbar navbar-light">
           <div class="col-auto d-flex align-items-center">
-            <a href="/"><img src="/imgs/logo.png" height="40" alt=""></a>
+            <a href="/"><img src="/imgs/logo2.png" height="40" alt=""></a>
           </div>
           <ul class="col d-flex align-items-center list-unstyled list-inline">
             <li class="list-inline-item"><a href="/">Главная</a></li>
