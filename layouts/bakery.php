@@ -90,7 +90,7 @@
 			<div class="col-12 col-lg-2 ml-auto mr-auto text-center">
 				<figure class="figure">
 				  <img height="150" src="imgs/products/bakery/vatrushka.jpg" class="figure-img rounded" alt="">
-				  <figcaption class="figure-caption text-left"><b>Ватрушка с творогом 1 шт</b><br>Цена: 50 руб.
+				  <figcaption class="figure-caption text-left"><b>Ватрушка с</b><br> <b>творогом 1 шт</b><br>Цена: 50 руб.
 				  </figcaption>
 				</figure>
 			</div>
@@ -114,28 +114,28 @@
 			<div class="col-12 col-lg-2 ml-auto mr-auto text-center">
 				<figure class="figure">
 				  <img height="150" src="imgs/products/bakery/pirozki.jpg" class="figure-img rounded" alt="">
-				  <figcaption class="figure-caption text-left"><b>Пирожки с вишней 1 шт</b><br>Цена: 50 руб.
+				  <figcaption class="figure-caption text-left"><b>Пирожки с </b><br><b>вишней 1 шт</b><br>Цена: 50 руб.
 				  </figcaption>
 				</figure>
 			</div>
 			<div class="col-12 col-lg-2 ml-auto mr-auto text-center">
 				<figure class="figure">
 				  <img height="150" src="imgs/products/bakery/pirozki.jpg" class="figure-img rounded" alt="">
-				  <figcaption class="figure-caption text-left"><b>Пирожки с капустой 1 шт</b><br>Цена: 50 руб.
+				  <figcaption class="figure-caption text-left"><b>Пирожки с </b><br><b>капустой 1 шт</b><br>Цена: 50 руб.
 				  </figcaption>
 				</figure>
 			</div>
 			<div class="col-12 col-lg-2 ml-auto mr-auto text-center">
 				<figure class="figure">
 				  <img height="150" src="imgs/products/bakery/pirozki.jpg" class="figure-img rounded" alt="">
-				  <figcaption class="figure-caption text-left"><b>Пирожки с картошкой 1 шт</b><br>Цена: 50 руб.
+				  <figcaption class="figure-caption text-left"><b>Пирожки с </b><br><b>картошкой 1 шт</b><br>Цена: 50 руб.
 				  </figcaption>
 				</figure>
 			</div>
 			<div class="col-12 col-lg-2 ml-auto mr-auto text-center">
 				<figure class="figure">
 				  <img height="150" src="imgs/products/bakery/pirozki.jpg" class="figure-img rounded" alt="">
-				  <figcaption class="figure-caption text-left"><b>Пирожки с курочкой 1 шт</b><br>Цена: 50 руб.
+				  <figcaption class="figure-caption text-left"><b>Пирожки с </b><br><b>курочкой 1 шт</b><br>Цена: 50 руб.
 				  </figcaption>
 				</figure>
 			</div>
@@ -145,35 +145,35 @@
 			<div class="col-12 col-lg-2 ml-auto mr-auto text-center">
 				<figure class="figure">
 				  <img height="150" src="imgs/products/bakery/pirozki.jpg" class="figure-img rounded" alt="">
-				  <figcaption class="figure-caption text-left"><b>Пирожки с ливером 1 шт</b><br>Цена: 50 руб.
+				  <figcaption class="figure-caption text-left"><b>Пирожки с </b><br><b>ливером 1 шт</b><br>Цена: 50 руб.
 				  </figcaption>
 				</figure>
 			</div>
 			<div class="col-12 col-lg-2 ml-auto mr-auto text-center">
 				<figure class="figure">
 				  <img height="150" src="imgs/products/bakery/pirozki.jpg" class="figure-img rounded" alt="">
-				  <figcaption class="figure-caption text-left"><b>Пирожки с мясом 1 шт</b><br>Цена: 50 руб.
+				  <figcaption class="figure-caption text-left"><b>Пирожки с </b><br><b>мясом 1 шт</b><br>Цена: 50 руб.
 				  </figcaption>
 				</figure>
 			</div>
 			<div class="col-12 col-lg-2 ml-auto mr-auto text-center">
 				<figure class="figure">
 				  <img height="150" src="imgs/products/bakery/pirozki.jpg" class="figure-img rounded" alt="">
-				  <figcaption class="figure-caption text-left"><b>Пирожки рис/лук/яйцо 1 шт</b><br>Цена: 50 руб.
+				  <figcaption class="figure-caption text-left"><b>Пирожки </b><br><b>рис/лук/яйцо 1 шт</b><br>Цена: 50 руб.
 				  </figcaption>
 				</figure>
 			</div>
 			<div class="col-12 col-lg-2 ml-auto mr-auto text-center">
 				<figure class="figure">
 				  <img height="150" src="imgs/products/bakery/pirozki.jpg" class="figure-img rounded" alt="">
-				  <figcaption class="figure-caption text-left"><b>Пирожки с яблоками 1 шт</b><br>Цена: 50 руб.
+				  <figcaption class="figure-caption text-left"><b>Пирожки с </b><br><b>яблоками 1 шт</b><br>Цена: 50 руб.
 				  </figcaption>
 				</figure>
 			</div>
 			<div class="col-12 col-lg-2 ml-auto mr-auto text-center">
 				<figure class="figure">
 				  <img height="150" src="imgs/products/bakery/piroznoe-kart.jpg" class="figure-img rounded" alt="">
-				  <figcaption class="figure-caption text-left"><b>Пирожное "Картошка" 1 кг</b><br>Цена: 800 руб.
+				  <figcaption class="figure-caption text-left"><b>Пирожное </b><br><b>"Картошка" 1 кг</b><br>Цена: 800 руб.
 				  </figcaption>
 				</figure>
 			</div>

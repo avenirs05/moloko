@@ -45,7 +45,7 @@
             <li class="list-inline-item"><a href="/">Главная</a></li>
             <li class="list-inline-item"><a id="our-farm-link" href="/our-farm.php" target="_blank">Наша ферма</a></li>
             <li class="list-inline-item"><a id="our-products-link" href="/our-products.php" target="_blank">Наша продукция</a></li>
-            <li class="list-inline-item"><a id="agrochemicals-link" href="/agrochemicals.php" target="_blank">Агрохимикаты</a></li>
+            <li class="list-inline-item"><a id="agrochemicals-link" href="/agrochemicals.php" target="_blank">Биоудобрения</a></li>
             <li class="list-inline-item"><a id="contacts-link" href="/contacts.php" target="_blank">Контакты</a></li> 
           </ul>
           <div class="col-auto d-flex align-items-center justify-content-end contacts">           
@@ -66,7 +66,7 @@
         		<li><a href="/" id="why-uber-link-mob">Главная</a></li><br>
         		<li><a href="/our-farm.php" id="req-drivers-link-mob">Наша ферма</a></li><br>
         		<li><a href="/our-products.php" id="req-auto-link-mob">Наша продукция</a></li><br>
-        		<li><a href="/agrochemicals.php" id="our-commission-link-mob">Агрохимикаты</a></li><br>
+        		<li><a href="/agrochemicals.php" id="our-commission-link-mob">Биоудобрения</a></li><br>
         		<li><a href="/contacts.php" id="change-partner-link-mob">Контакты</a></li>	
         	</ul>
         </div>

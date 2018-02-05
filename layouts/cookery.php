@@ -31,21 +31,21 @@
 			<div class="col-12 col-lg-2 ml-auto mr-auto text-center">
 				<figure class="figure">
 				  <img height="150" src="imgs/products/cookery/vareniki.jpg" class="figure-img rounded" alt="">
-				  <figcaption class="figure-caption text-left"><b>Вареники с картошкой 1 кг</b><br>Цена: 400 руб.
+				  <figcaption class="figure-caption text-left"><b>Вареники</b><br> <b>с картошкой 1 кг</b><br>Цена: 400 руб.
 				  </figcaption>
 				</figure>
 			</div>
 			<div class="col-12 col-lg-2 ml-auto mr-auto text-center">
 				<figure class="figure">
 				  <img height="150" src="imgs/products/cookery/vareniki.jpg" class="figure-img rounded" alt="">
-				  <figcaption class="figure-caption text-left"><b>Вареники с картошкой и грибами 1 кг</b><br>Цена: 400 руб.
+				  <figcaption class="figure-caption text-left"><b>Вареники</b><br> <b>с картошкой</b><br> <b>и грибами 1 кг</b><br>Цена: 400 руб.
 				  </figcaption>
 				</figure>
 			</div>
 			<div class="col-12 col-lg-2 ml-auto mr-auto text-center">
 				<figure class="figure">
 				  <img height="150" src="imgs/products/cookery/vareniki.jpg" class="figure-img rounded" alt="">
-				  <figcaption class="figure-caption text-left"><b>Вареники с капустой 1 кг</b><br>Цена: 400 руб.
+				  <figcaption class="figure-caption text-left"><b>Вареники</b><br> <b>с капустой 1 кг</b><br>Цена: 400 руб.
 				  </figcaption>
 				</figure>
 			</div>
@@ -55,7 +55,7 @@
 			<div class="col-12 col-lg-2 ml-auto mr-auto text-center">
 				<figure class="figure">
 				  <img height="150" src="imgs/products/cookery/vareniki.jpg" class="figure-img rounded" alt="">
-				  <figcaption class="figure-caption text-left"><b>Вареники с творогом 1 кг</b><br>Цена: 500 руб.
+				  <figcaption class="figure-caption text-left"><b>Вареники</b><br> <b>с творогом 1 кг</b><br>Цена: 500 руб.
 				  </figcaption>
 				</figure>
 			</div>
@@ -242,7 +242,7 @@
 			<div class="col-12 col-lg-2 ml-auto mr-auto text-center">
 				<figure class="figure">
 				  <img height="150" src="imgs/products/cookery/krylia-kur.jpg" class="figure-img rounded" alt="">
-				  <figcaption class="figure-caption text-left"><b>Крылья куриные жареные 1 кг</b><br>Цена: 200 руб.
+				  <figcaption class="figure-caption text-left"><b>Крылья куриные</b><br> <b>жареные 1 кг</b><br>Цена: 200 руб.
 				  </figcaption>
 				</figure>
 			</div>

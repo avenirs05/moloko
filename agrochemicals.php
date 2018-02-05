@@ -3,7 +3,7 @@
 <div id="why-uber-section" class="container-fluid anchor-page">
 	<div class="row">
 		<div class="col col-lg-12 ml-auto mr-auto">
-			<h2 class="text-center headers-h">Агрохимикаты</h2>
+			<h2 class="text-center headers-h">Биоудобрения</h2>
 			<p>Страница в разработке</p>
 		</div>
 	</div>
