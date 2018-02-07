@@ -20,6 +20,9 @@ $(function () {
         if ( location.match(/agrochemicals/) ) {
             $('#agrochemicals-link').css('color', color);       
         }
+        if ( location.match(/recom/) ) {
+            $('#recom-link').css('color', color);       
+        }
         if ( location.match(/contacts/) ) {
             $('#contacts-link').css('color', color);        
         }

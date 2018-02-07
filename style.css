@@ -2,7 +2,8 @@ body {
 	padding-top: 54px;
 }
 
-.bioudobr {
+.bioudobr,
+.recom {
 	font-size: 20px;
 }
 
@@ -155,7 +156,15 @@ a {
 }
 
 #nav-main {
+	/*серый*/
+	/*background-color: #f3f3f3;*/
+	
+	/*синий*/
 	background-color: #99CCFF;
+
+	/*желтый*/
+	/*background-color: #FFFFCC;*/
+
 }
 
 #nav-main-mob, #just-for-bg-mob {

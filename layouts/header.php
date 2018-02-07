@@ -11,9 +11,7 @@
     <!-- Fonts -->
 		<link href="https://fonts.googleapis.com/css?family=PT+Sans" rel="stylesheet">
     
-    <link type="text/css" rel="stylesheet" href="/css/lightgallery.css">
-    <link type="text/css" rel="stylesheet" href="/css/lg-tranzitions.min.css">
-    
+    <link type="text/css" rel="stylesheet" href="/css/lightgallery.css">   
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
@@ -46,6 +44,7 @@
             <li class="list-inline-item"><a id="our-farm-link" href="/our-farm.php" target="_blank">Наша ферма</a></li>
             <li class="list-inline-item"><a id="our-products-link" href="/our-products.php" target="_blank">Наша продукция</a></li>
             <li class="list-inline-item"><a id="agrochemicals-link" href="/agrochemicals.php" target="_blank">Биоудобрения</a></li>
+            <li class="list-inline-item"><a id="recom-link" href="/recom.php" target="_blank">Рекомендации</a></li>
             <li class="list-inline-item"><a id="contacts-link" href="/contacts.php" target="_blank">Контакты</a></li> 
           </ul>
           <div class="col-auto d-flex align-items-center justify-content-end contacts">           
@@ -67,6 +66,7 @@
         		<li><a href="/our-farm.php" id="req-drivers-link-mob">Наша ферма</a></li><br>
         		<li><a href="/our-products.php" id="req-auto-link-mob">Наша продукция</a></li><br>
         		<li><a href="/agrochemicals.php" id="our-commission-link-mob">Биоудобрения</a></li><br>
+            <li><a href="/recom.php" id="recom-link-mob">Рекомендации</a></li><br>
         		<li><a href="/contacts.php" id="change-partner-link-mob">Контакты</a></li>	
         	</ul>
         </div>

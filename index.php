@@ -9,7 +9,7 @@
 <div class="container-fluid d-none d-lg-block main-screen">
 	<div class="row">
 		<div class="col-9 mr-auto ml-auto">
-			<h1 class="text-center">Крестьянско-фермерское хозяйство</b></h1>
+			<h1 class="text-center">Крестьянско-фермерское хозяйство</h1>
 			<p id="from-Olga-text" class="text-center">Ивлевой Ольги Петровны</p>
 		</div>
 	</div>		    
