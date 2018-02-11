@@ -23,9 +23,9 @@
 			    <a class="nav-link" id="pills-contact-tab" data-toggle="pill" href="#pills-bakery" role="tab" aria-controls="pills-contact" aria-selected="false">Выпечка</a>
 			  </li>
 			  
-			  <li class="nav-item">
+<!-- 			  <li class="nav-item">
 			    <a class="nav-link" id="pills-contact-tab" data-toggle="pill" href="#pills-contact" role="tab" aria-controls="pills-contact" aria-selected="false">Яйцо домашнее</a>
-			  </li>
+			  </li> -->
 			</ul>
 
 			<div class="tab-content" id="pills-tabContent">				
@@ -38,7 +38,7 @@
 
 				<?php require_once 'layouts/bakery.php'; ?>
 				
-				<?php require_once 'layouts/eggs.php'; ?>
+				<?php //require_once 'layouts/eggs.php'; ?>
 			
 			</div>
 		</div>

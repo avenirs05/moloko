@@ -39,9 +39,9 @@
                 <a href="imgs/our-farm-big/08.jpg">
                     <img src="imgs/our-farm-thumb/08.jpg">
                 </a>  
-                <a href="imgs/our-farm-big/09.jpg">
+<!--                 <a href="imgs/our-farm-big/09.jpg">
                     <img src="imgs/our-farm-thumb/09.jpg">
-                </a>  
+                </a>   -->
                 <a href="imgs/our-farm-big/10.jpg">
                     <img src="imgs/our-farm-thumb/10.jpg">
                 </a>  
