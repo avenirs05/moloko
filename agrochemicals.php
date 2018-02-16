@@ -38,15 +38,15 @@
 			<div id="cert-wrap">
 				<img src="imgs/bioudobr/instr.jpg" alt="">
 			</div>
-			<div id="cert-wrap">
+<!-- 			<div id="cert-wrap">
 				<img src="imgs/bioudobr/instr-2.jpg" alt="">
-			</div>
-			<div id="cert-wrap">
+			</div> -->
+<!-- 			<div id="cert-wrap">
 				<img src="imgs/bioudobr/kp.jpg" alt="">
 			</div>
 			<div id="cert-wrap">
 				<img src="imgs/bioudobr/kp-pril.png" alt="">
-			</div>
+			</div> -->
 			<div id="cert-wrap">
 				<img src="imgs/bioudobr/prot-1.jpg" alt="">
 			</div>
@@ -62,10 +62,6 @@
 			<div id="cert-wrap">
 				<img src="imgs/bioudobr/prot-5.jpg" alt="">
 			</div>
-			<div id="cert-wrap">
-				<img src="imgs/bioudobr/.jpg" alt="">
-			</div>
-
 			<div id="cert-wrap">
 				<img src="imgs/cert.jpg" alt="">
 			</div>

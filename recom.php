@@ -20,11 +20,17 @@
 			<div id="cert-wrap">
 				<img src="imgs/recom1.jpg" alt="">
 			</div>
-			<div  id="result-wrap" class="ml-auto mr-auto">
+			<div class="ml-auto mr-auto">
 				<img src="imgs/recom2.jpg" alt="">
 			</div>
-			<div  id="result-wrap" class="ml-auto mr-auto">
+			<div class="ml-auto mr-auto">
 				<img src="imgs/recom3.jpg" alt="">
+			</div>
+			<div class="ml-auto mr-auto">
+				<img src="imgs/bioudobr/kp.jpg" alt="">
+			</div>
+			<div class="ml-auto mr-auto">
+				<img src="imgs/bioudobr/kp-pril.png" alt="">
 			</div>
 		</div>
 	</div>
