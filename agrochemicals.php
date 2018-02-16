@@ -36,7 +36,13 @@
 	<div class="row">
 		<div id="diff-scans-wrap" class="text-center col col-lg-12">
 			<div id="cert-wrap">
-				<img src="imgs/bioudobr/instr.jpg" alt="">
+				<img src="imgs/bioudobr/instr-preim.jpg" style="width:50%;" alt="">
+			</div>
+			<div id="cert-wrap">
+				<img src="imgs/bioudobr/no-red.jpg" alt="">
+			</div>
+			<div id="cert-wrap">
+				<img src="imgs/bioudobr/proizv-bioud2.jpg" style="width:70%;"  alt="">
 			</div>
 <!-- 			<div id="cert-wrap">
 				<img src="imgs/bioudobr/instr-2.jpg" alt="">
